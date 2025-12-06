@@ -3,7 +3,7 @@ function fn() {
 
   var config = {
     env: env,
-    urlBase: 'https://api-ventas.synnexaconsulting.com'
+    urlBase: 'https://restful-booker.herokuapp.com'
   }
 
   return config;
