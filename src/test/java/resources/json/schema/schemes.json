@@ -1,0 +1,19 @@
+{
+  "product" : {
+    "id": "#number",
+    "title": "#string",
+    "price": "#number"
+  },
+
+  "deleteUser": {
+    "id": "#number",
+    "email": "#string",
+    "username": "#string",
+    "password": "#string"
+  },
+
+  "request": {
+    "title": "#string",
+    "price": "#number"
+  }
+}
